@@ -1,0 +1,47 @@
+{
+  "files": [
+    {
+      "id": 1,
+      "name": "File 1.jpg",
+      "url": "https://picsum.photos/id/1015/350/200",
+      "mimeType": "image/jpeg"
+    },
+    {
+      "id": 2,
+      "name": "File 2.png",
+      "url": "https://picsum.photos/id/1039/350/200",
+      "mimeType": "image/png"
+    },
+    {
+      "id": 3,
+      "name": "File 3.doc",
+      "mimeType": "application/msword"
+    },
+    {
+      "id": 4,
+      "name": "File 4.pdf",
+      "mimeType": "application/pdf"
+    },
+    {
+      "id": 5,
+      "name": "File 5.xls",
+      "mimeType": "application/vnd.ms-excel"
+    },
+    {
+      "name": "pexels-eberhard-grossgasteiger-572897.jpg",
+      "mimeType": "image/jpeg",
+      "url": "http://localhost:3030/uploads/pexels-eberhard-grossgasteiger-572897.jpg",
+      "path": "/Users/eding/Desktop/Vue 3 Course/vue-drive/server/uploads/pexels-eberhard-grossgasteiger-572897.jpg",
+      "createdAt": 1628154488462,
+      "id": 6
+    },
+    {
+      "name": "pexels-felix-mittermeier-2832061.jpg",
+      "mimeType": "image/jpeg",
+      "url": "http://localhost:3030/uploads/pexels-felix-mittermeier-2832061.jpg",
+      "path": "/Users/eding/Desktop/Vue 3 Course/vue-drive/server/uploads/pexels-felix-mittermeier-2832061.jpg",
+      "createdAt": 1628154489000,
+      "id": 7
+    }
+  ]
+}
